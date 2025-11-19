@@ -1,0 +1,6 @@
+# Auto detect text files and perform normalization
+*           text=auto
+
+*.c         text diff=cpp
+*.cpp       text diff=cpp
+*.h         text diff=cpp
